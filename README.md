@@ -15,7 +15,6 @@ Habilidades:
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/rigo93acosta)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/rigo93acosta)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/rigo93acosta/badge-it)](https://badges.pufler.dev)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rigo93acosta)  
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
