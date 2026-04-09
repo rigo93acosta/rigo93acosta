@@ -5,12 +5,10 @@
 
 ### 🛠️ Languages & Development
 
-**Programming Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23F7931E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**HDL & Hardware Description**
 ![Verilog](https://img.shields.io/badge/Verilog-%23B22222.svg?style=for-the-badge&logo=Verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23B22222.svg?style=for-the-badge&logo=systemverilog&logoColor=white)
 
