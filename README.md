@@ -4,6 +4,8 @@
 ### Dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%23B22222.svg?style=for-the-badge&logo=Verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23B22222.svg?style=for-the-badge&logo=systemverilog&logoColor=white)
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
