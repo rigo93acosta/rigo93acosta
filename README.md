@@ -4,6 +4,7 @@
 ### Dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23F7931E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23B22222.svg?style=for-the-badge&logo=Verilog&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-%23B22222.svg?style=for-the-badge&logo=systemverilog&logoColor=white)
 
@@ -13,6 +14,7 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
