@@ -35,6 +35,15 @@
 
 ---
 
+### 🎛️ Microcontrollers & Embedded Systems
+
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352B.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC-%23FF6B35.svg?style=for-the-badge&logo=microchip&logoColor=white)
+![8051](https://img.shields.io/badge/8051-%23333333.svg?style=for-the-badge&logo=microchip&logoColor=white)
+
+---
+
 ### 💻 Editors & IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
