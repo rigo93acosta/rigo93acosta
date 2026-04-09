@@ -21,6 +21,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![UVM](https://img.shields.io/badge/UVM-%234B0082.svg?style=for-the-badge&logo=systemverilog&logoColor=white)
 ![cocotb](https://img.shields.io/badge/cocotb-%23236B8E.svg?style=for-the-badge&logo=python&logoColor=white)
 ![pyuvm](https://img.shields.io/badge/pyuvm-%236C3483.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -30,6 +31,7 @@
 
 ![Verilator](https://img.shields.io/badge/Verilator-%23FF6B6B.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Icarus](https://img.shields.io/badge/Icarus%20Verilog-%2300A0D0.svg?style=for-the-badge&logo=verilog&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-%23E74C3C.svg?style=for-the-badge&logo=xilinx&logoColor=white)
 
 ---
 
