@@ -30,6 +30,8 @@
 ![Verilator](https://img.shields.io/badge/Verilator-%23FF6B6B.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Icarus](https://img.shields.io/badge/Icarus%20Verilog-%2300A0D0.svg?style=for-the-badge&logo=verilog&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-%23E74C3C.svg?style=for-the-badge&logo=xilinx&logoColor=white)
+![GTKWave](https://img.shields.io/badge/GTKWave-%230078d7.svg?style=for-the-badge&logo=gnome&logoColor=white)
+![Surfer](https://img.shields.io/badge/Surfer-%23FF6B9D.svg?style=for-the-badge&logo=waveform&logoColor=white)
 
 ---
 
@@ -65,3 +67,9 @@
 [![Repos Badge](https://badges.pufler.dev/repos/rigo93acosta)](https://badges.pufler.dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rigo93acosta)](https://git.io/streak-stats)
+
+---
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rigo93acosta&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
